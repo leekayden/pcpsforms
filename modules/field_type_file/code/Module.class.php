@@ -14,8 +14,8 @@ class Module extends FormToolsModule
 {
 	protected $moduleName = "File Upload";
 	protected $moduleDesc = "File upload fields for your PCPSForms forms.";
-	protected $author = "Ben Keen";
-	protected $authorEmail = "ben.keen@gmail.com";
+	protected $author = "Kayden Lee";
+	protected $authorEmail = "kayden@programmer.net";
 	protected $authorLink = "https://cloudservetechcentral.com";
 	protected $version = "2.2.4";
 	protected $date = "2019-04-27";

@@ -10,8 +10,8 @@ class Module extends FormToolsModule
 {
 	protected $moduleName = "System Check";
 	protected $moduleDesc = "This module offers a few tests to analyze and repair your PCPSForms installation.";
-	protected $author = "Ben Keen";
-	protected $authorEmail = "ben.keen@gmail.com";
+	protected $author = "Kayden Lee";
+	protected $authorEmail = "kayden@programmer.net";
 	protected $authorLink = "http://cloudservetechcentral.com";
 	protected $version = "2.1.5";
 	protected $date = "2019-03-17";

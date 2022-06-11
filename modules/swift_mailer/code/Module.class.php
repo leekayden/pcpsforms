@@ -15,7 +15,7 @@ class Module extends FormToolsModule
 {
     protected $moduleName = "Swift Mailer";
     protected $moduleDesc = "This module lets your configure your server's SMTP settings for Swift Mailer, letting you override the default mail() functionality used to sent emails.";
-    protected $author = "Ben Keen";
+    protected $author = "Kayden Lee";
     protected $authorEmail = "ben.keen@gmail.com";
     protected $authorLink = "https://cloudservetechcentral.com";
     protected $version = "2.0.7";

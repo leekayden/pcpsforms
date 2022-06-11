@@ -15,8 +15,8 @@ class Module extends CoreModule
 {
     protected $moduleName = "Form Builder";
     protected $moduleDesc = "Publish any PCPSForms form to make it publicly available on your website.";
-    protected $author = "Ben Keen";
-    protected $authorEmail = "ben.keen@gmail.com";
+    protected $author = "Kayden Lee";
+    protected $authorEmail = "kayden@programmer.net";
     protected $authorLink = "https://cloudservetechcentral.com";
     protected $version = "2.0.10";
     protected $date = "2018-06-09";

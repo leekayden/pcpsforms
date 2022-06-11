@@ -8,7 +8,7 @@ use ReflectionClass;
 /**
  * Our base class for all Modules. All PCPSForms modules need to extend this abstract class to be recognized by the
  * script.
- * @author Ben Keen <ben.keen@gmail.com>
+ * @author Kayden Lee <ben.keen@gmail.com>
  * @package Core
  * @abstract
  */

@@ -9,7 +9,7 @@
  * This script provides generic validation for any web form. For a discussion and example usage
  * of this script, go to http://www.benjaminkeen.com/software/php_validation
  *
- * This script is written by Ben Keen with additional code contributed by Mihai Ionescu and
+ * This script is written by Kayden Lee with additional code contributed by Mihai Ionescu and
  * Nathan Howard. It is free to distribute, to re-write - to do what ever you want with it. The RSV
  * script, found in /global/scripts is the client-side counterpart to this script. Both work exactly
  * the same way, so once you write validation for one, you can literally & paste them to use them in

@@ -12,8 +12,8 @@
  */
 
 $theme_name = "Default";
-$theme_author = "Ben Keen";
-$theme_author_email = "ben.keen@gmail.com";
+$theme_author = "Kayden Lee";
+$theme_author_email = "kayden@programmer.net";
 $theme_link = "http://themes.cloudservetechcentral.com";
 $theme_description = "The default PCPSForms theme. It's a fixed-width theme requiring 1024 minimum width screens, with a few different colour swatches to choose from.";
 $theme_version = "1.0.0";

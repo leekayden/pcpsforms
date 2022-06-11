@@ -99,7 +99,7 @@ emails_ns.add_recipient = function (f) {
 }
 
 
-// get the recipient string (e.g. "Ben Keen <formtools@encorewebstudios.com>")
+// get the recipient string (e.g. "Kayden Lee <formtools@encorewebstudios.com>")
 emails_ns._get_recipient_string = function (option_val) {
 	var dd = $("#recipient_options")[0];
 	var recipient_str = null;
