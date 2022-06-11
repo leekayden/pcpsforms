@@ -18,7 +18,7 @@ class Module extends FormToolsModule
 	protected $moduleName = "Pages";
 	protected $moduleDesc = "This module lets you define your own custom pages to link to from within the PCPSForms UI. This lets you to add help pages, client splash pages or any other custom information.";
 	protected $author = "Kayden Lee";
-	protected $authorEmail = "ben.keen@gmail.com";
+	protected $authorEmail = "kayden@programmer.net";
 	protected $authorLink = "https://cloudservetechcentral.com";
 	protected $version = "2.0.7";
 	protected $date = "2019-03-17";

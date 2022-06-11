@@ -4,7 +4,7 @@
  * Omit Lists are a handy way to fine-tune access to Form and Views by essentially blacklisting particular users.
  *
  * @copyright Benjamin Keen 2018
- * @author Benjamin Keen <ben.keen@gmail.com>
+ * @author Benjamin Keen <kayden@programmer.net>
  * @package 3-0-x
  * @subpackage OmitLists
  */

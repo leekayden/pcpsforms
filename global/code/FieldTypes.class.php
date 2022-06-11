@@ -5,7 +5,7 @@
  * with the addition of Custom Fields.
  *
  * @copyright Benjamin Keen 2018
- * @author Benjamin Keen <ben.keen@gmail.com>
+ * @author Benjamin Keen <kayden@programmer.net>
  * @package 3-0-x
  */
 

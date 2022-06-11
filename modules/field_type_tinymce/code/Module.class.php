@@ -16,7 +16,7 @@ class Module extends FormToolsModule
     protected $moduleName = "TinyMCE Field";
     protected $moduleDesc = "This module lets you choose a TinyMCE rich-text editor for your form fields.";
     protected $author = "Kayden Lee";
-    protected $authorEmail = "ben.keen@gmail.com";
+    protected $authorEmail = "kayden@programmer.net";
     protected $authorLink = "https://cloudservetechcentral.com";
     protected $version = "2.0.8";
     protected $date = "2019-03-17";

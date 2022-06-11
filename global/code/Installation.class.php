@@ -4,7 +4,7 @@
  * The installation class. Added in 3.0.0.
  *
  * @copyright Benjamin Keen 2018
- * @author Benjamin Keen <ben.keen@gmail.com>
+ * @author Benjamin Keen <kayden@programmer.net>
  * @package 3-0-x
  * @subpackage Installation
  */
@@ -850,7 +850,7 @@ END;
             ");
             $db->execute();
 
-            $db->query("INSERT INTO {PREFIX}themes VALUES (1, 'default', 'Default', 'yes', 'green', 'PCPSForms', 'ben.keen@gmail.com', 'https://cloudservetechcentral.com', 'https://themes.cloudservetechcentral.com/', 'The default PCPSForms theme for all new installations. It''s a green-coloured fixed-width theme requiring 1024 minimum width screens.', 'yes', '1.0.0')");
+            $db->query("INSERT INTO {PREFIX}themes VALUES (1, 'default', 'Default', 'yes', 'green', 'PCPSForms', 'kayden@programmer.net', 'https://cloudservetechcentral.com', 'https://themes.cloudservetechcentral.com/', 'The default PCPSForms theme for all new installations. It''s a green-coloured fixed-width theme requiring 1024 minimum width screens.', 'yes', '1.0.0')");
             $db->execute();
 
             $db->query("

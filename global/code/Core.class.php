@@ -15,7 +15,7 @@
  *          - Core::$L (language strings for current user)
  *
  * @copyright Benjamin Keen 2018
- * @author Benjamin Keen <ben.keen@gmail.com>
+ * @author Benjamin Keen <kayden@programmer.net>
  * @version 3.0.x
  * @package 3-0-x
  */
