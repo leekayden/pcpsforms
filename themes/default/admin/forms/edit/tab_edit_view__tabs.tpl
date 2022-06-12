@@ -31,6 +31,10 @@
       <td align="center">6</td>
       <td><input type="text" name="tabs[]" id="tab_label6" class="tab_label" value="{$view_tabs[6].tab_label}" maxlength="50" /></td>
     </tr>
+    <tr>
+      <td align="center">7</td>
+      <td><input type="text" name="tabs[]" id="tab_label7" class="tab_label" value="{$view_tabs[7].tab_label}" maxlength="50" /></td>
+    </tr>
   </table>
 
   <input type="button" value="{$LANG.phrase_remove_tabs}" onclick="view_ns.remove_tabs()" style="margin-left: 10px; float: left" />
