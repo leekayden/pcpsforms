@@ -46,11 +46,11 @@
                         {else}
                             <b>{$settings.program_version}</b>
                         {/if}
-                        {* {if $account.account_type == "admin" && !$g_hide_upgrade_link}
+                        {if $account.account_type == "admin" && !$g_hide_upgrade_link}
                             <span class="delimiter">|</span>
                             <a href="#" onclick="return ft.check_updates()"
                                class="update_link">{$LANG.word_update}</a>
-                        {/if} *}
+                        {/if}
                     {/if}
                 </div>
                 <img src="{$theme_url}/images/account_section_right_{$swatch}2x.png" border="0" width="8" height="25" />
