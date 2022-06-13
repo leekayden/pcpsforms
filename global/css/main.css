@@ -13,6 +13,7 @@
 
 nav {
   /* padding: 50px; */
+  text-align: center;
 }
 nav > ul {
   list-style: none;
