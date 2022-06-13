@@ -9,7 +9,6 @@
 * {
   font-family: "PT Sans", sans-serif !important;
   transition: all 1s ease;
-  user-select: none;
 }
 
 input, a {
