@@ -28,6 +28,10 @@ div.menu_items div:first-child {
   font-size: 8.6pt;
 }
 
+.nav_link:hover {
+  transition: all 3s;
+}
+
 .nav_link a:link,
 .nav_link a:visited {
   width: 180px;
