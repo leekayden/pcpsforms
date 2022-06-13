@@ -959,6 +959,7 @@ table.add_form_nav td.unselected {
 }
 .prevnext_links span.no_link {
   padding: 2px 8px;
+  cursor: not-allowed;
 }
 .prevnext_links span a {
   padding: 2px 8px;
