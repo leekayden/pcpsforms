@@ -11,7 +11,9 @@
   transition: all 1s ease;
 }
 
-
+td, th {
+    user-select: none;
+}
 
 html,
 body,
