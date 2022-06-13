@@ -30,7 +30,7 @@ lf_ns.generate = function() {
   html += "  <input type=\"submit\" name=\"login\" value=\"" + $("#login_button_label").val() + "\" /><br />\n";
 
   if ($("#include_forget_password_link").attr("checked"))
-    html += "  <a href=\"" + g.root_url + "/modules/submission_accounts/forget_password.php\">Forget your password?</a><br />\n";
+    html += "  <a href=\"" + g.root_url + "/modules/submission_accounts/forget_password.php\">Forgot your password?</a><br />\n";
 
   html += "</form>";
 

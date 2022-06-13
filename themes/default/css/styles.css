@@ -1390,6 +1390,7 @@ tr.unselected_row_color {
 .main_tabset a:hover {
   text-decoration: none;
   color: #0b4a03;
+  transition: all 3s;
 }
 .tab_content {
   padding: 10px 18px;
