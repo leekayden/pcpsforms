@@ -735,7 +735,7 @@ $LANG["text_cache_folder_not_writable"] = "Cache folder is not valid or writable
 $LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
 $LANG["text_cannot_clear_cache_folder"] = "We were unable to delete all files in your cache folder.";
 $LANG["text_choose_form_type"] = "First, please choose your form type.";
-$LANG["text_client_form_page"] = "This page lists all the forms and Views assigned to this client. Tip: in order for them to see a form's submissions, they need to be assigned to at least one View.";
+$LANG["text_client_form_page"] = "This page lists all the forms and Views assigned to this client. Tip: In order for them to see a form's submissions, they need to be assigned to at least one View.";
 $LANG["text_client_map_filters_desc1"] = "Client Map filters let you limit the submissions that appear in this View by mapping the values in a form field to the values in a client account.";
 $LANG["text_client_no_forms"] = "You currently have no forms available for review.";
 $LANG["text_client_welcome"] = "Welcome! This program stores all information submitted by your website visitors. To view submissions for a particular form just click on the <b>VIEW</b> link, or see the leftmost navigation menu for other options.";
