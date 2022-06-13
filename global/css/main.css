@@ -11,9 +11,7 @@
   transition: all 1s ease;
 }
 
-input, a {
-    user-select: all !important;
-}
+
 
 html,
 body,
