@@ -60,21 +60,6 @@
         <td><input type="text" name="sessions_timeout" value="{$client_info.sessions_timeout}" style="width: 30px" /> {$LANG.word_minutes}</td>
         <td class="check_area" align="center"><input type="checkbox" name="may_edit_sessions_timeout" {if $client_info.settings.may_edit_sessions_timeout == "yes"}checked="checked"{/if} /></td>
       </tr>
-
-      <nav>
-        <ul>
-           <li> Style 2
-              <ul class="drop-menu menu-2">
-                 <li>Lorem, ipsum.</li>
-                 <li>Lorem, ipsum.</li>
-                 <li>Lorem, ipsum.</li>
-                 <li>Lorem, ipsum.</li>
-                 <li>Lorem, ipsum.</li>
-              </ul>
-           </li>
-        </ul>
-      </nav>
-      
       <tr>
         <td class="pad_left_small">{$LANG.phrase_date_format}</td>
         <td><input type="text" name="date_format" value="{$client_info.date_format}" style="width: 80px" /> <span class="medium_grey">{$text_date_formatting_link}</span></td>
