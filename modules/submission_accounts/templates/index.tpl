@@ -34,8 +34,8 @@
       <th>{$LANG.word_view}</th>
       <th>Uses View Override(s)?</th>
       <th width="120">{$LANG.word_status}</th>
-      <th class="edit">Edit</th>
-      <th class="del">Delete</th>
+      <th class="edit">&nbsp;Edit&nbsp;</th>
+      <th class="del">&nbsp;Delete&nbsp;</th>
     </tr>
     {foreach from=$submission_accounts item=info}
     <tr>
