@@ -12,8 +12,7 @@
 }
 
 nav {
-  padding: 50px;
-  text-align: center;
+  /* padding: 50px; */
 }
 nav > ul {
   list-style: none;
