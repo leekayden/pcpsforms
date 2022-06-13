@@ -11,7 +11,7 @@
   transition: all 1s ease;
 }
 
-td, th {
+td, th, li {
     user-select: none;
 }
 
