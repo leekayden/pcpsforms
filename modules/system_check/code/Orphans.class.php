@@ -1638,7 +1638,6 @@ class Orphans
         foreach ($view_filters as $row) {
             if (!in_array($row["view_id"], $valid_view_ids)) {
                 $response["problems"][] = "Invalid reference to view_id {$row["view_id"]} for field_id {$row["field_id"]}";
-
                 // clean-up code
                 if ($remove_orphans) {
                     $db->query("
