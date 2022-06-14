@@ -89,7 +89,7 @@ class ViewTabs
     {
         $db = Core::$db;
 
-        for ($i=1; $i<=6; $i++) {
+        for ($i=1; $i<=15; $i++) {
             $db->query("UPDATE {PREFIX}view_tabs SET tab_label = :tab_label WHERE view_id = :view_id AND tab_number = :tab_number");
             $db->bindAll(array(
                 "tab_label" => $info["tabs"][$i-1],
@@ -113,7 +113,7 @@ class ViewTabs
     public static function addTabs($view_id, $tab_labels) {
         $db = Core::$db;
 
-        for ($i=0; $i<6; $i++) {
+        for ($i=0; $i<15; $i++) {
             $db->query("INSERT INTO {PREFIX}view_tabs (view_id, tab_number, tab_label) VALUES (:view_id, :tab_number, :tab_label)");
             $db->bindAll(array(
                 "tab_label"  => $tab_labels[$i],
