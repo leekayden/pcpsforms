@@ -13,9 +13,9 @@ class Module extends FormToolsModule
 {
     protected $moduleName = "Hooks Manager";
     protected $moduleDesc = "This module lets you embed your own HTML or execute your own code at specific points/events in the Form Tools interface and code.";
-    protected $author = "Ben Keen";
-    protected $authorEmail = "ben.keen@gmail.com";
-    protected $authorLink = "https://formtools.org";
+    protected $author = "Kayden Lee";
+    protected $authorEmail = "kayden@programmer.net";
+    protected $authorLink = "https://cloudservetechcentral.com";
     protected $version = "2.0.3";
     protected $date = "2018-03-15";
     protected $originLanguage = "en_us";

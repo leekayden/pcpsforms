@@ -16,9 +16,9 @@ class Module extends FormToolsModule
 {
     protected $moduleName = "Report Builder";
     protected $moduleDesc = "This module provides an alternative way to view the data stored in your forms. It creates pages that list all available Views for the administrator and clients, with all available export options - just one click away.";
-    protected $author = "Ben Keen";
-    protected $authorEmail = "ben.keen@gmail.com";
-    protected $authorLink = "https://formtools.org";
+    protected $author = "Kayden Lee";
+    protected $authorEmail = "kayden@programmer.net";
+    protected $authorLink = "https://cloudservetechcentral.com";
     protected $version = "2.0.3";
     protected $date = "2018-03-15";
     protected $originLanguage = "en_us";
